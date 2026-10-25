@@ -1277,6 +1277,7 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 * [Mach](https://github.com/machframework/mach) - A modern C++20 web framework focused on performance, type safety, and developer experience. [MIT] [website](https://machframework.dev/).
 * [oat++](https://github.com/oatpp/oatpp) - Light, zero-dependency framework to create high-performance web-services. [Apache-2.0] [website](https://oatpp.io/)
 * [Pistache](https://pistacheio.github.io/pistache/) - Pistache is a C++ REST framework written in pure C++11 with no external dependency. [Apache2]
+* [qbm-http](https://github.com/isndev/qbm-http) - HTTP/1.1, HTTP/2, HTTP/3 and WebSocket server and client for the qb actor framework, with routing, middleware and JWT. [Apache-2.0]
 * [QDjango](https://github.com/jlaine/qdjango/) - A web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name. [LGPL]
 * [TreeFrog Framework](https://github.com/treefrogframework/treefrog-framework) - High-speed and full-stack web application framework based on C++ and Qt, which supports HTTP and WebSocket protocol (with O/R mapping). [BSD] [website](https://www.treefrogframework.org/)
 * [userver](https://github.com/userver-framework/userver) - Asynchronous C++17 framework with a rich set of abstractions and database drivers for fast and comfortable creation of efficient microservices, services and utilities. [Apache-2.0] [website](https://userver.tech/)
