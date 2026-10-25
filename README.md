@@ -485,6 +485,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [MySQL++](https://www.tangentsoft.net/mysql++/) - A C++ wrapper for MySQL's C API. [LGPL]
 * [nanodbc](https://github.com/nanodbc/nanodbc) - A small C++ wrapper for the native C ODBC API. [MIT]
 * [ODB](https://www.codesynthesis.com/products/odb/) - An open-source, cross-platform, and cross-database object-relational mapping (ORM) system for C++. [GPLv2]
+* [qbm-pgsql](https://github.com/isndev/qbm-pgsql) - Asynchronous PostgreSQL client for the qb actor framework: wire protocol without libpq, SCRAM, TLS, prepared statements and C++20 coroutines. [Apache-2.0]
 * [redis3m](https://github.com/luca3m/redis3m) - Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. [Apache2]
 * [Reindexer](https://github.com/Restream/reindexer) - Embeddable, in-memory, document-oriented database with a high-level Query builder interface. [Apache2] [website](https://reindexer.io/)
 * [RocksDB](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage from facebook. [BSD]
